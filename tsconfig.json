@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "types": ["node", "@playwright/test"],
+    "noEmit": true
+  },
+  "include": [
+    "**/*.ts"
+  ]
+}
