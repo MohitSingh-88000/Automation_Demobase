@@ -128,4 +128,5 @@ test.describe('Restful Booker booking API', () => {
     expect(fetchedAfterDelete.response.status()).toBe(404);
     expect(fetchedAfterDelete.body).toBeNull();
   });
+
 });
